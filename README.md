@@ -71,7 +71,7 @@ Course content is still under development. A more detailed breakdown of topics a
 
 ## Course Syllabus and Policies
 
-The course uses Canvas for homework submission, grading, discussion, questions, announcements, and supplementary documents; slides will be posted here; github is used to coordinate group work.
+The course uses Canvas for homework submission, grading, discussion, questions, announcements, and supplementary documents; slides will be posted here; Github is used to coordinate group work.
 
 **Prerequisites:** We expect basic exposure to (a) software engineering and (b) machine learning as well as reasonable programming skills. The prerequisites can be filled in many forms:
 * Regarding software engineering you should have a basic familiarity with using version control, gathering requirements, software design and modeling, testing and test automation. Courses 17-313, and  17-654, 17-655 apply, but you may also have prerequisite software engineering knowledge from other courses or practical work experience. 
